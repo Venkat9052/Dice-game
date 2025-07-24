@@ -27,3 +27,21 @@ This is a simple command-line **Dice Game** built with Python, where **2 to 4 pl
    ```bash
    python dice_game.py
 
+Enter the number of players (2 - 4): 2
+
+====== New Round ====
+
+ 1 number Turn :
+your total score is :  0
+
+Do you want to roll the dice? (y/n): y
+you rolled a value 4
+your score is :  4
+Do you want to roll the dice? (y/n): y
+you rolled a value 2
+your score is :  6
+Do you want to roll the dice? (y/n): n
+Player 1 total score is: 6
+...
+
+
